@@ -1,0 +1,18 @@
+[Image data for the char-up.png file which is 4 frames in a horizontal strip]
+Frame 1: [Image data]
+Frame 2: [Image data]
+Frame 3: [Image data]
+Frame 4: [Image data]
+<frames>
+  <frame>frame1.png</frame>
+  <frame>frame2.png</frame>
+  <frame>frame3.png</frame>
+  <frame>frame4.png</frame>
+</frames>
+<frames>
+  <frame>frame1.png</frame>
+  <frame>frame2.png</frame>
+  <frame>frame3.png</frame>
+  <frame>frame4.png</frame>
+</frames>
+Frame 1: sprite data...\nFrame 2: sprite data...\nFrame 3: sprite data...\nFrame 4: sprite data...
