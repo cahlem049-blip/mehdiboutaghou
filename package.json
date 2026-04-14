@@ -1,1 +1,0 @@
-{\n  "name": "mehdiboutaghou",\n  "version": "1.0.0",\n  "description": "Personalized Pokemon-themed minigame",\n  "main": "index.js",\n  "scripts": {\n    "start": "live-server",\n    "build": "echo 'Build step can be defined here'"\n  },\n  "author": "",\n  "license": "ISC",\n  "devDependencies": {\n    "http-server": "14.1.1"\n  }\n}
